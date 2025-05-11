@@ -4,6 +4,13 @@ This project is a work in progress!
 
 ![fir filter block diagram](documentation/fir_filter_block_diagram.png)
 
+- [x] UART
+- [x] I2S
+- [x] I2C
+- [] Multiplier
+- [] Accumulator
+- [] Filter control
+
 ## Running Tests
 
 Tests are run through cocotb. Accordingly, a Python virtual envrionment is provided, which can be set up by sourcing the setup script `scripts/setup.sh`. Poetry and Pyenv are required for setup.
