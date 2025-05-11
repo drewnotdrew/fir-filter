@@ -2,7 +2,7 @@
 
 This project is a work in progress!
 
-![fir filter block diagram](documentation/fit_filter_block_diagram.png)
+![fir filter block diagram](documentation/fir_filter_block_diagram.png)
 
 ## Running Tests
 
