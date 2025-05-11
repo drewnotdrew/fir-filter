@@ -7,9 +7,9 @@ This project is a work in progress!
 - [x] UART
 - [x] I2S
 - [x] I2C
-- [] Multiplier
-- [] Accumulator
-- [] Filter control
+- [ ] Multiplier
+- [ ] Accumulator
+- [ ] Filter control
 
 ## Running Tests
 
